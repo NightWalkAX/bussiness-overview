@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial: Configurar Pagos en Printful</title>
+    <meta name="description" content="Guía paso a paso para configurar y recibir pagos en Printful. Requisitos, verificación y consejos clave.">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+      // Detect language and redirect if needed
+      (function() {
+        const userLang = navigator.language || navigator.userLanguage;
+        const isEnglish = userLang && userLang.toLowerCase().startsWith('en');
+        if (isEnglish && !location.pathname.endsWith('printful-payouts.html')) {
+          location.href = 'printful-payouts.html';
+        }
+        if (!isEnglish && location.pathname.endsWith('printful-payouts.html')) {
+          location.href = 'printful-pagos.html';
+        }
+      })();
+    </script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-money-check-alt"></i>
+                <span>Pagos Printful</span>
+            </div>
+            <div class="tagline">Guía para recibir tus ganancias de Printful</div>
+        </div>
+    </header>
+    <section class="hero">
+        <div class="container">
+            <h1>Configurar Pagos en Printful <i class="fas fa-university"></i></h1>
+            <p>Aprende cómo recibir tus ganancias de Printful de forma segura y rápida, cumpliendo todos los requisitos.</p>
+        </div>
+    </section>
+    <div class="container">
+        <section>
+            <div class="section-header">
+                <i class="fas fa-list-ol"></i>
+                <h2>Requisitos Previos</h2>
+            </div>
+            <div class="section-content">
+                <ul>
+                    <li>Cuenta en Printful (gratuita)</li>
+                    <li>Documento de identidad (DNI, pasaporte)</li>
+                    <li>Datos bancarios (IBAN o número de cuenta)</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <div class="section-header">
+                <i class="fas fa-cogs"></i>
+                <h2>Pasos para Recibir Pagos</h2>
+            </div>
+            <div class="section-content">
+                <ol>
+                    <li>
+                        <strong>Entrar a la Configuración de Pagos:</strong>
+                        <ul>
+                            <li>Inicia sesión en <a href="https://printful.com/" target="_blank">printful.com</a></li>
+                            <li>Haz clic en tu nombre &rarr; "Billing" (Facturación)</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Agregar Método de Pago:</strong>
+                        <ul>
+                            <li>Selecciona "Payout Methods" (Métodos de pago)</li>
+                            <li>Elige "Bank Transfer" (Transferencia bancaria)</li>
+                            <li>Completa los datos:
+                                <ul>
+                                    <li>Nombre del titular (igual al documento)</li>
+                                    <li>País del banco</li>
+                                    <li>IBAN (número completo de tu cuenta)</li>
+                                    <li>Código SWIFT/BIC (opcional)</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Verificación de Identidad:</strong>
+                        <ul>
+                            <li>Printful pedirá:
+                                <ul>
+                                    <li>Foto de tu documento (frente y dorso)</li>
+                                    <li>Selfie sosteniendo el documento</li>
+                                </ul>
+                            </li>
+                            <li>Sube los archivos en "Verification" &rarr; "Identity"</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Confirmar Cuenta Bancaria:</strong>
+                        <ul>
+                            <li>Printful hará un depósito pequeño (menos de $1) en tu cuenta</li>
+                            <li>En 1-3 días, revisa tu banco y anota el monto exacto</li>
+                            <li>Ingresa ese monto en Printful para verificar</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Configurar Frecuencia de Pagos:</strong>
+                        <ul>
+                            <li>Ve a "Payout Schedule"</li>
+                            <li>Elige:
+                                <ul>
+                                    <li><strong>Automático:</strong> Printful te paga cada lunes</li>
+                                    <li><strong>Manual:</strong> Tú solicitas pagos cuando quieras</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ol>
+            </div>
+        </section>
+        <section>
+            <div class="section-header">
+                <i class="fas fa-lightbulb"></i>
+                <h2>Consejos Clave</h2>
+            </div>
+            <div class="section-content">
+                <ul>
+                    <li>Usa una cuenta bancaria personal (no empresarial al inicio)</li>
+                    <li>Los nombres deben coincidir exactamente (documento, banco y Printful)</li>
+                    <li>Los primeros pagos tardan 7-10 días</li>
+                    <li>Soporte: <a href="mailto:support@printful.com">support@printful.com</a> para problemas</li>
+                </ul>
+                <div class="highlight">
+                    <strong>⚠️ Importante:</strong> Printful NO cobra por enviarte dinero, pero tu banco podría tener comisiones por transferencias internacionales.
+                </div>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <h3>¿Dudas?</h3>
+                <p>Consulta la guía o escríbenos para más ayuda.</p>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+                <div class="copyright">
+                    Tutorial Pagos Printful &copy; 2023
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>

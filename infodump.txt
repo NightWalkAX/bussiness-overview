@@ -1,88 +1,79 @@
-# Guía Paso a Paso: Montar Tienda TikTok Shop con Printful
+# Guía para Abrir Tienda en Etsy desde Cero
 
-## Requisitos Iniciales (Chelsea)
-- Tener cuenta personal de TikTok
-- Documentos de identidad válidos (DNI, pasaporte)
-- Datos fiscales (para facturación)
-- Cuenta bancaria para recibir pagos
-- Printful: cuenta gratuita (printful.com)
-
----
-
-## Configuración Básica de TikTok Shop (Chelsea)
-
-### 1. Convertir cuenta a TikTok Business
-- En la app de TikTok: Perfil → ⋮ (Menú) → Configuración → Cuenta → Cambiar a Cuenta Empresarial
-- Selecciona categoría: "Comercio electrónico" o "Tienda online"
-
-### 2. Registro en TikTok Seller Center
-- Ingresa a seller.tiktok.com
-- Completa el formulario con:
-  * Datos personales
-  * Información fiscal
-  * Documentos de identidad (foto/escaneo)
-  * Cuenta bancaria
-- Espera verificación (1-3 días hábiles)
-
-### 3. Configurar Métodos de Envío
-- En Seller Center: Configuración → Envíos
-- Selecciona: "Shipping by Seller" (Printful gestionará los envíos)
+## Requisitos Iniciales
+- Correo electrónico
+- Documento de identidad
+- Tarjeta de crédito/débito
+- Cuenta bancaria o PayPal
 
 ---
 
-## Integrar Printful (Dropshipping)
+## Configuración Paso a Paso
 
-### 1. Instalar app de Printful (Chelsea)
-- En TikTok Seller Center: Apps → Buscar "Printful" → Instalar
-- Conecta tu cuenta de Printful
+### 1. Registro de Cuenta
+- Entra a etsy.com
+- Haz clic en "Abrir una tienda" (esquina superior derecha)
+- Crea cuenta con email o Google/Facebook
 
-### 2. Sincronizar Productos (Jose)
-- En Printful: Dashboard → Stores → TikTok Shop → Conectar
-- Selecciona productos compatibles:
-  * ✅ Ropa (camisetas, sudaderas)
+### 2. Elegir Nombre de Tienda
+- Busca nombre único (ej: "ArtesaniasLuna")
+- Verifica disponibilidad
+- Consejo: Usa palabras clave (arte, handmade, personalizado)
 
-### 3. Configurar Precios (Jose)
-- Printful mostrará costo base (ej: camiseta = $12)
-- Establece tu precio de venta (recomendado: costo base + 50-70%)
-- Ejemplo: Camiseta costo $12 → Precio venta $19-$21
+### 3. Configurar Pagos
+- Ve a "Finanzas" → "Métodos de pago"
+- Elige:
+  * **Cuenta bancaria**: Ingresa IBAN y datos
+  * **PayPal** (recomendado): Conecta tu cuenta
+- Añade tarjeta para pagar cuotas de Etsy
+
+### 4. Configurar Envíos
+- En "Configuración" → "Opciones de envío"
+- Selecciona:
+  * Países donde envías (España, UE, Mundial)
+  * Plazos de entrega (ej: 3-5 días laborables)
+  * Costos: Gratis o calculado por peso
+
+### 5. Crear Primer Producto
+- Haz clic en "Añadir un producto"
+- Completa:
+  * **Fotos**: Mínimo 5 imágenes (fondo blanco)
+  * **Título**: Ej: "Taza Personalizada - Regalo Original"
+  * **Descripción**: Materiales, medidas y proceso
+  * **Precio**: $15-$25 (considera comisiones)
+  * **Etiquetas**: regalo, handmade, taza personalizada
+
+### 6. Políticas de la Tienda
+- Crea en "Configuración" → "Políticas":
+  * Devoluciones (ej: 14 días)
+  * Privacidad
+  * Tiempos de producción
+
+### 7. Publicar Tienda
+- Completa el checklist de verificación
+- Haz clic en "Abrir tienda"
 
 ---
 
-## Publicar y Vender
+## 🔄 Conectar Printful (Dropshipping)
+1. En Etsy: Ve a "Aplicaciones" → Busca "Printful"
+2. Conecta tu cuenta de Printful
+3. Sincroniza productos:
+   - En Printful: Diseña tu producto
+   - Publica en Etsy (se crea automáticamente)
 
-### 1. Publicar productos (Jose y Chelsea)
-- En TikTok Seller Center: Productos → Lista de productos → "Publicar"
-- Revisa que aparezcan en tu perfil (@tuusuario → Tienda)
+## 💰 Costos Importantes
+| Concepto | Precio |
+|----------|--------|
+| **Publicación** | $0.20 USD por producto |
+| **Comisión venta** | 6.5% del total |
+| **Procesamiento pago** | 4% + $0.25 USD |
+| **Cuota transacción** | 5% si usas Etsy Payments |
 
-### 2. Promoción Básica (Jose)
-- Crea videos mostrando los productos
-- Usa etiquetas: #TikTokShop #TuMarca
-- En videos: Añade enlace directo al producto
-- Ejemplos de contenido:
-  * "Cómo se imprime este diseño"
-  * "Pack de envío para clientes"
-  * "Customización en vivo"
+## ✅ Consejos para Principiantes
+1. Empieza con 10 productos máximo
+2. Usa palabras clave en títulos (ej: "regalo para novios")
+3. Responde mensajes en menos de 24 horas
+4. Promociona en Instagram/Pinterest con enlace a Etsy
 
-### 3. Gestionar Pedidos 
-- Cuando recibas venta:
-  1. TikTok te notifica
-  2. Printful recibe automáticamente el pedido
-  3. Printful imprime y envía (3-7 días)
-  4. TikTok deposita ganancias en tu banco (menos comisiones)
-
----
-
-## Costos Importantes
-- 🚫 **Sin costo inicial** para abrir tienda
-- TikTok Shop: 8% comisión por venta
-- Printful: Pagas solo al venderse (costo producto + envío)
-- Ejemplo comisión: Venta $20 → TikTok cobra $1.60
-
-## Consejos Clave
-1. Verifica compatibilidad de productos en Printful
-2. Inicia con 5-10 diseños populares
-3. Precio de envío: Printful lo calcula automáticamente
-4. Países disponibles: España, México, EE.UU., Reino Unido
-5. Atención al cliente: Responde mensajes en <24h
-
-⚠️ Requisito esencial: Todos los documentos deben coincidir (nombre en TikTok, banco y documentos de identidad).
+⚠️ **Ojo**: Etsy puede suspender cuentas sin verificación de identidad. Sube tu documento en "Verificar tu cuenta".
