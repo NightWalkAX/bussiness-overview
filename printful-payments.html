@@ -14,10 +14,10 @@
         const userLang = navigator.language || navigator.userLanguage;
         const isEnglish = userLang && userLang.toLowerCase().startsWith('en');
         if (isEnglish && !location.pathname.endsWith('printful-payouts.html')) {
-          location.href = 'printful-payouts.html';
+          location.href = 'printful-payments-en.html';
         }
         if (!isEnglish && location.pathname.endsWith('printful-payouts.html')) {
-          location.href = 'printful-pagos.html';
+          location.href = 'printful-payments.html';
         }
       })();
     </script>
