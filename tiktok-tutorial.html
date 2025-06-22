@@ -15,10 +15,10 @@
     const isEnglish = userLang && userLang.toLowerCase().startsWith('en');
     const isRoot = location.pathname.endsWith('index.html') || location.pathname.endsWith('/');
     if (isEnglish && isRoot && !location.pathname.endsWith('index-en.html')) {
-      location.href = 'tiktok-tutorial-en.html';
+      location.href = 'tiktok-tutorial.html';
     }
     if (!isEnglish && location.pathname.endsWith('index-en.html')) {
-      location.href = 'tiktok-tutorial.html';
+      location.href = 'tiktok-tutorial-en.html';
     }
   })();
 </script>
