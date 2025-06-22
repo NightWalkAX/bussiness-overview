@@ -1,0 +1,88 @@
+# Guía Paso a Paso: Montar Tienda TikTok Shop con Printful
+
+## Requisitos Iniciales (Chelsea)
+- Tener cuenta personal de TikTok
+- Documentos de identidad válidos (DNI, pasaporte)
+- Datos fiscales (para facturación)
+- Cuenta bancaria para recibir pagos
+- Printful: cuenta gratuita (printful.com)
+
+---
+
+## Configuración Básica de TikTok Shop (Chelsea)
+
+### 1. Convertir cuenta a TikTok Business
+- En la app de TikTok: Perfil → ⋮ (Menú) → Configuración → Cuenta → Cambiar a Cuenta Empresarial
+- Selecciona categoría: "Comercio electrónico" o "Tienda online"
+
+### 2. Registro en TikTok Seller Center
+- Ingresa a seller.tiktok.com
+- Completa el formulario con:
+  * Datos personales
+  * Información fiscal
+  * Documentos de identidad (foto/escaneo)
+  * Cuenta bancaria
+- Espera verificación (1-3 días hábiles)
+
+### 3. Configurar Métodos de Envío
+- En Seller Center: Configuración → Envíos
+- Selecciona: "Shipping by Seller" (Printful gestionará los envíos)
+
+---
+
+## Integrar Printful (Dropshipping)
+
+### 1. Instalar app de Printful (Chelsea)
+- En TikTok Seller Center: Apps → Buscar "Printful" → Instalar
+- Conecta tu cuenta de Printful
+
+### 2. Sincronizar Productos (Jose)
+- En Printful: Dashboard → Stores → TikTok Shop → Conectar
+- Selecciona productos compatibles:
+  * ✅ Ropa (camisetas, sudaderas)
+
+### 3. Configurar Precios (Jose)
+- Printful mostrará costo base (ej: camiseta = $12)
+- Establece tu precio de venta (recomendado: costo base + 50-70%)
+- Ejemplo: Camiseta costo $12 → Precio venta $19-$21
+
+---
+
+## Publicar y Vender
+
+### 1. Publicar productos (Jose y Chelsea)
+- En TikTok Seller Center: Productos → Lista de productos → "Publicar"
+- Revisa que aparezcan en tu perfil (@tuusuario → Tienda)
+
+### 2. Promoción Básica (Jose)
+- Crea videos mostrando los productos
+- Usa etiquetas: #TikTokShop #TuMarca
+- En videos: Añade enlace directo al producto
+- Ejemplos de contenido:
+  * "Cómo se imprime este diseño"
+  * "Pack de envío para clientes"
+  * "Customización en vivo"
+
+### 3. Gestionar Pedidos 
+- Cuando recibas venta:
+  1. TikTok te notifica
+  2. Printful recibe automáticamente el pedido
+  3. Printful imprime y envía (3-7 días)
+  4. TikTok deposita ganancias en tu banco (menos comisiones)
+
+---
+
+## Costos Importantes
+- 🚫 **Sin costo inicial** para abrir tienda
+- TikTok Shop: 8% comisión por venta
+- Printful: Pagas solo al venderse (costo producto + envío)
+- Ejemplo comisión: Venta $20 → TikTok cobra $1.60
+
+## Consejos Clave
+1. Verifica compatibilidad de productos en Printful
+2. Inicia con 5-10 diseños populares
+3. Precio de envío: Printful lo calcula automáticamente
+4. Países disponibles: España, México, EE.UU., Reino Unido
+5. Atención al cliente: Responde mensajes en <24h
+
+⚠️ Requisito esencial: Todos los documentos deben coincidir (nombre en TikTok, banco y documentos de identidad).
