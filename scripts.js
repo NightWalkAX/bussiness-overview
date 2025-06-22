@@ -28,3 +28,10 @@
                 observer.observe(card);
             });
         });
+        window.addEventListener('DOMContentLoaded', () => {
+            const links = document.querySelectorAll('link[rel="stylesheet"]');
+            links.forEach(link => {
+                const href = link.getAttribute('href').split('?')[0];
+                link.setAttribute('href', `${href}?reload=${new Date().getTime()}`);
+            });
+        });
